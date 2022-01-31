@@ -54,7 +54,7 @@ class ModalFilter extends StatelessWidget {
           Container(
             width: double.infinity,
             child: Text(
-              'Atributos da sala',
+              'O quê a sala precisa?',
               style: GoogleFonts.nunito(
                   fontSize: height * 1.6, fontWeight: FontWeight.w700),
             ),
@@ -82,7 +82,7 @@ class ModalFilter extends StatelessWidget {
           Container(
             width: double.infinity,
             child: Text(
-              'Quantidade de pessoas',
+              'Quantas pessoas?',
               style: GoogleFonts.nunito(
                   fontSize: height * 1.6, fontWeight: FontWeight.w700),
             ),

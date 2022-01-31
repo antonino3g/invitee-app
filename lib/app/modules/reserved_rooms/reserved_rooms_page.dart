@@ -176,7 +176,7 @@ class _RoomDetailPageState
                                       icon: Icon(Icons.check),
                                       label: controller.isChecked
                                           ? Text('Finalizar reserva')
-                                          : Text('Checkin'),
+                                          : Text('Check-in'),
                                       style: TextButton.styleFrom(
                                           backgroundColor: controller.isChecked
                                               ? Colors.green

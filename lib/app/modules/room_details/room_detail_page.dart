@@ -41,8 +41,8 @@ class _RoomDetailPageState extends State<RoomDetailPage> {
                   padding: EdgeInsets.only(top: height * 2, left: width * 4),
                   child: InkWell(
                     onTap: () => Modular.to.pop(),
-                    child: Icon(Icons.arrow_back,
-                        color: Colors.black, size: height * 3),
+                    child: Icon(Icons.arrow_back_ios_sharp,
+                        color: Colors.black, size: height * 4.5),
                   ),
                 ),
               ),
