@@ -21,7 +21,7 @@ Protótipo do Aplicativo de reservas de salas da InnovareTI.
 &nbsp;
 
 ## :information_source: Como usar
-☁️ Download APK: https://drive.google.com/drive/folders/1TPIRQko7zIihh2qLDN_WViSGtcIyPwj2?usp=sharing
+☁️ Download do APK [AQUI](https://drive.google.com/drive/folders/1TPIRQko7zIihh2qLDN_WViSGtcIyPwj2?usp=sharing)
 
 Obs: Há também uma pasta dentro do projeto com o nome "APK Invitee" para execução em um emulador.
 
