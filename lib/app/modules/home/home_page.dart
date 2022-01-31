@@ -39,7 +39,7 @@ class _HomePageState extends ModularState<HomePage, HomeController> {
         actions: [
           IconButton(
             onPressed: () {},
-            icon: Icon(Icons.notifications_outlined),
+            icon: Icon(Icons.notifications),
           ),
         ],
       ),
@@ -125,7 +125,7 @@ class _HomePageState extends ModularState<HomePage, HomeController> {
       floatingActionButton: FloatingActionButton(
         onPressed: () => controller.fetchAllRooms(),
         backgroundColor: Color(0XFF492E8D),
-        child: Icon(Icons.replay_outlined),
+        child: Icon(Icons.home),
       ),
     );
   }

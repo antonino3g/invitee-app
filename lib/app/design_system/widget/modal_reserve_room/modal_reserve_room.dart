@@ -133,7 +133,7 @@ class ModalResreveRoom extends StatelessWidget {
             child: Padding(
               padding: EdgeInsets.symmetric(vertical: height * 1.5),
               child: Text(
-                'Tipo da reserva',
+                'Selecione o tipo de reserva:',
                 style: GoogleFonts.nunito(
                     fontSize: width * 4, fontWeight: FontWeight.bold),
               ),
