@@ -16,7 +16,6 @@ Protótipo do Aplicativo de reservas de salas da InnovareTI.
 ## :hammer_and_wrench: Build
 - flutter_modular
 - mobx
-- flutter_mobx
 
 &nbsp;
 
